@@ -16,6 +16,9 @@ The dataset consists of the following fields:
 }
 ```
 
+	term
+: definition
+
 datetime - hourly date + timestamp
 season - 1 = spring, 2 = summer, 3 = fall, 4 = winter
 holiday - whether the day is considered a holiday
