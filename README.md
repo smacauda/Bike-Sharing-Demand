@@ -28,3 +28,9 @@ The dataset consists of the following fields:
 
 ## Visualization
 
+Several visualizations were created to better understand the data. 
+
+### Correlation Matrix
+
+A correlation matrix was created with a heatmap to understand the correlation betweeen demand and the other variables. 
+
