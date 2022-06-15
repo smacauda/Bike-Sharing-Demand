@@ -40,4 +40,6 @@ A correlation matrix was created with a heatmap to understand the correlation be
 
 ## Results
 
-This analysis considers 5 models: Random Forest Regressor, Lasso (Regularizaion)
+This analysis considers 5 models: random forest, lasso, support vector, k-neighbors, and decision tree regressors. The root mean squared error (RMSE), R^2, and mean absolute error (MAE) are below. 
+
+
