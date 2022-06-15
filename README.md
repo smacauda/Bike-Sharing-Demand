@@ -35,3 +35,9 @@ Several visualizations were created to better understand the data.
 A correlation matrix was created with a heatmap to understand the correlation betweeen demand and the other variables. 
 
 ![alt text](https://github.com/smacauda/Bike-Sharing-Demand/blob/main/images/corr-matrix.png)
+
+
+
+## Results
+
+This analysis considers 5 models: Random Forest Regressor, Lasso (Regularizaion)
