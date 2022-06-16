@@ -42,4 +42,18 @@ A correlation matrix was created with a heatmap to understand the correlation be
 
 This analysis considers 5 models: random forest, lasso, support vector, k-neighbors, and decision tree regressors. The root mean squared error (RMSE), R^2, and mean absolute error (MAE) are below. 
 
-
+| Model | MSE | RMSE | MAPE |
+| :---         |     :---:      |     :---:      |          ---: |
+| ARMA   | 87,237.01   | 295.36    |33.88|
+| ARIMA | 79,804.31  | 282.5  |35.07  |
+| SARIMA 1 | 42,305.37  | 205.68  | 28.89  |
+| SARIMA 2 | 55,497.86 | 235.58  | 33.5 |
+| DES | 40,4596.36  | 636.08  | 98.79  |
+| TES | 49,846.48  | 223.26  | 30.81  |
+| Prophet1 | 37,992.52  | 194.92  | 26.67  |
+| Prophet2 | 27,986.56 | 167.29  | 22.62 |
+| Vanilla LSTM | 18,829.66  | 137.22  | 18.39  |
+| Stacked LSTM | 16,515.49  | 128.51  | 17.34  |
+| Bidirectional LSTM | 53,981.32  | 232.34  | 31.4  |
+| LSTM 1| 68,671.5  | 262.05  | 29.4  |
+| CNN| 39,938.47  | 199.85  | 22.26  |
